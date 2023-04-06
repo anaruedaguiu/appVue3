@@ -1,6 +1,21 @@
-# appVue3
+<h1 align="center"> INTRO TO VUE.JS <img src="https://user-images.githubusercontent.com/117440372/230496572-e47598a8-e519-4e75-a77b-def2c9568aaf.png" alt="Sketch Login View Desktop Teacher" width="30px"></h1>
 
+## Description
+Introduction to using Vue.js:
+- Installation
+- Components
+- Router
+- Directives (VShow, VFor, VModel, VIf)
+- Computed Properties
+- Props (Father → Child and Child → Father)
+- Consumption of an API Rest: ApiPokemon (https://pokeapi.co/) 🎮
+
+
+____________________________________________________________________
+
+# VUE 3
 This template should help get you started developing with Vue 3 in Vite.
+
 
 ## Recommended IDE Setup
 
@@ -39,4 +54,3 @@ npm run test:unit
 ```sh
 npm run lint
 ```
-# appVue3
